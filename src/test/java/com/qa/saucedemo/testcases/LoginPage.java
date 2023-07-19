@@ -43,11 +43,12 @@ public class LoginPage {
 	@Test
 	public void test() {
 		System.out.println("*****Demo Test Cases are Done*****");
+		System.out.println("*****Demo Test Cases are Done*****");
 	}
 	
 	@Test
 	public void testing() {
-		System.out.println("*****Demo *****");
+		System.out.println("*****Demo 12333 *****");
 	}
 
 }
