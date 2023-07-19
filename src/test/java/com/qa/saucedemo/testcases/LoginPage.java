@@ -42,7 +42,7 @@ public class LoginPage {
 	
 	@Test
 	public void test() {
-		System.out.println("*****My Demo Done*****");
+		System.out.println("*****Demo Test Cases are Done*****");
 	}
 
 }
